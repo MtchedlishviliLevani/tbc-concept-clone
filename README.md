@@ -18,7 +18,12 @@
 
 ## ინსტალაცია
 
-1. **Clone the Repository**:
+1. **რეპოზიტორის დაკლონვა**:
    ```bash
-   git clone https://github.com/yourusername/tbcconcept-clone.git
+   git clone https://github.com/MtchedlishviliLevani/tbc-concept-clone.git
    ```
+2. **დაკლონვის შემდეგ ვხსნით ფოლდერს**
+   ```bash
+   cd tbc-concept-clone
+   ```
+3. **ვუშვებთ index.html ფაილს ბრაუზერში**
